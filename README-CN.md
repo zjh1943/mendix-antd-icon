@@ -1,6 +1,6 @@
-![GitHub all releases](https://img.shields.io/github/downloads/wiwengweng/mendix-antd-icon/total?style=social)
+![GitHub all releases](https://img.shields.io/github/downloads/zjh1943/mendix-antd-icon/total?style=social)
 
-[English](https://github.com/wiwengweng/mendix-antd-icon/blob/master/README.md)
+[English](https://github.com/zjh1943/mendix-antd-icon/blob/master/README.md)
 
 ## 介绍
 
@@ -18,7 +18,7 @@
 ## 快速开始
 
 1. 将小部件添加到 Mendix 项目。
-    1. 从[这里](https://github.com/wiwengweng/mendix-antd-icon/releases/)下载最新版本的mpk文件。
+    1. 从[这里](https://github.com/zjh1943/mendix-antd-icon/releases/)下载最新版本的mpk文件。
     3. 将 mpk 文件复制到您的 Mendix 项目目录 `{YourMendixProjectFolder}/widgets/`。
     4. 使用 Mendix Studio Pro 打开您的 Mendix 项目，然后单击菜单 `Menu > App > Synchronize App Directory`。
 2. 使用`Antd Icon`。
@@ -64,7 +64,7 @@ External Iconfont
 
 ![](./resources/API%E5%AF%B9%E6%AF%94.png)
 ## 问题、建议和功能请求
-[Github问题](https://github.com/wiwengweng/mendix-antd-icon/issues)
+[Github问题](https://github.com/zjh1943/mendix-antd-icon/issues)
 
 同时，欢迎您进入中国技术论坛，了解更多关于Mendix widget开发的信息。 [查看](https://marketplace.siemens.com.cn/low-code-community)
 

@@ -1,6 +1,6 @@
-![GitHub all releases](https://img.shields.io/github/downloads/wiwengweng/mendix-antd-icon/total?style=social)
+![GitHub all releases](https://img.shields.io/github/downloads/zjh1943/mendix-antd-icon/total?style=social)
 
-[中文版](https://github.com/wiwengweng/mendix-antd-icon/blob/master/README-CN.md)
+[中文版](https://github.com/zjh1943/mendix-antd-icon/blob/master/README-CN.md)
 ## Introduction
 
 A Mendix Widget widget implemented based on Ant Design. The widget implements most of the interfaces of [`icon`](https://ant.design/components/icon) in Ant Design (antd). You can go [here](https://ant.design/components/icon) to see various features of the original antd component.
@@ -18,7 +18,7 @@ View features of this project on [online demo](https://demo-antdwidgets100.apps.
 ## Quick start
 
 1. Add the widget to Mendix Project.
-    1. Download the latest mpk file from [here](https://github.com/wiwengweng/mendix-antd-icon/releases/).
+    1. Download the latest mpk file from [here](https://github.com/zjh1943/mendix-antd-icon/releases/).
     3. Copy the mpk file to your Mendix Project directory `{YourMendixProjectFolder}/widgets/`.
     4. Open your Mendix Project with Mendix Studio Pro, then click the menu `Menu > App > Synchronize App Directory`.
 2. Use `Antd Icon`.
@@ -64,7 +64,7 @@ This lists all the parameters of `Icon` in `antd`, and explains whether the widg
 
 ![](./resources/API%E5%AF%B9%E6%AF%94.png)
 ## Issues, suggestions and feature requests
-[Github Issue](https://github.com/wiwengweng/mendix-antd-icon/issues)
+[Github Issue](https://github.com/zjh1943/mendix-antd-icon/issues)
 
 At the same time, your are welcome to get into the China Technology Forum to get more in Mendix widget development. [check this out](https://marketplace.siemens.com.cn/low-code-community)
 
