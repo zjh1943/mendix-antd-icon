@@ -4,6 +4,8 @@ import AntdIconComponent from "./components/AntdIconComponent";
 
 declare function require(name: string): string;
 
+/* eslint-disable react-hooks/rules-of-hooks */
+// prettier-ingore
 export function preview(props: AntdIconPreviewProps): any {
     // console.log(parseStyle(props.style));
     const iconSourceList = useMemo(() => props.iconSourceList.map(d => d.url), [props.iconSourceList]);
@@ -26,6 +28,7 @@ export function preview(props: AntdIconPreviewProps): any {
         />
     );
 }
+/* eslint-disable react-hooks/rules-of-hooks */
 
 export function getPreviewCss(): string {
     return require("./ui/AntdIcon.css");
